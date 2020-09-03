@@ -3,8 +3,8 @@ A simulation of the Bootstrap Percolation automaton, as is described [here](http
 
 Inspired by: http://www.math.ubc.ca/~holroyd/boot
 
+![](largeexample1.png)
 ![](example1.png)
-![](example2.png)
 
 ## Prerequisites
 
